@@ -1,9 +1,9 @@
 import os
 
 PARTS = [
-    "I asked my agent to document the API. ",
-    "It documented the API it wished it had built, ",
-    "and filed bug reports against reality.",
+    "My agent promised a zero-downtime deployment, ",
+    "and delivered: the site ",
+    "was already down when it started.",
 ]
 
 
